@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14F4F791-B38D-4432-B14A-D3AC0049CFFB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KargoTakipOtomasyonu</RootNamespace>
+    <AssemblyName>KargoTakipOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CikisYapanlarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CikisYapanlarForm.Designer.cs">
+      <DependentUpon>CikisYapanlarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisYapanlarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisYapanlarForm.Designer.cs">
+      <DependentUpon>GirisYapanlarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KargoBilgileriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KargoBilgileriForm.Designer.cs">
+      <DependentUpon>KargoBilgileriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KargoDurumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KargoDurumForm.Designer.cs">
+      <DependentUpon>KargoDurumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KargoEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KargoEkleForm.Designer.cs">
+      <DependentUpon>KargoEkleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KargomNeredeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KargomNeredeForm.Designer.cs">
+      <DependentUpon>KargomNeredeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciGiris.Designer.cs">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelBilgileriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelBilgileriForm.Designer.cs">
+      <DependentUpon>PersonelBilgileriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SifreUnutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifreUnutForm.Designer.cs">
+      <DependentUpon>SifreUnutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sınıflar\Veritabani Islemleri\CikisYapanKullanicilar.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\GirisYapanKullanicilar.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\KargoBilgileri.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\KargoDurumu.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\PersonelBilgiler.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\SifreUnut.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\SQLBaglanti.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\TeslimEdilmeyenKargoBilgileri.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\YoneticiBilgiler.cs" />
+    <Compile Include="Sınıflar\Veritabani Islemleri\ZiyaretciBilgileri.cs" />
+    <Compile Include="TeslimEdilmeyenKargoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeslimEdilmeyenKargoForm.Designer.cs">
+      <DependentUpon>TeslimEdilmeyenKargoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiBilgileriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiBilgileriForm.Designer.cs">
+      <DependentUpon>YoneticiBilgileriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZiyaretciBilgileriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZiyaretciBilgileriForm.Designer.cs">
+      <DependentUpon>ZiyaretciBilgileriForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CikisYapanlarForm.resx">
+      <DependentUpon>CikisYapanlarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisYapanlarForm.resx">
+      <DependentUpon>GirisYapanlarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KargoBilgileriForm.resx">
+      <DependentUpon>KargoBilgileriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KargoDurumForm.resx">
+      <DependentUpon>KargoDurumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KargoEkleForm.resx">
+      <DependentUpon>KargoEkleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KargomNeredeForm.resx">
+      <DependentUpon>KargomNeredeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciGiris.resx">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelBilgileriForm.resx">
+      <DependentUpon>PersonelBilgileriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SifreUnutForm.resx">
+      <DependentUpon>SifreUnutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeslimEdilmeyenKargoForm.resx">
+      <DependentUpon>TeslimEdilmeyenKargoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiBilgileriForm.resx">
+      <DependentUpon>YoneticiBilgileriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZiyaretciBilgileriForm.resx">
+      <DependentUpon>ZiyaretciBilgileriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\Çıkış.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\İkonlar\Çıkış İkon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\İkonlar\Çıkış İkonu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\İkonlar\iconfinder_exit-enter-leave-door-in_2931189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\İkonlar\Çıkış.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Resimler\İkonlar\Çıkış.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

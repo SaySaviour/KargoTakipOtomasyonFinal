@@ -1,0 +1,44 @@
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.exe.config
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.exe
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.pdb
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.exe
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.pdb
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.AnaMenu.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.CikisYapanlarForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.GirisYapanlarForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoDurumForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoEkleForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargomNeredeForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KullaniciGiris.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.PersonelBilgileriForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.SifreUnutForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.TeslimEdilmeyenKargoForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.YoneticiBilgileriForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.ZiyaretciBilgileriForm.resources
+C:\Users\Casper\source\repos\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoBilgileriForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.exe.config
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.exe
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\bin\Debug\KargoTakipOtomasyonu.pdb
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.AnaMenu.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.CikisYapanlarForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.GirisYapanlarForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoBilgileriForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoDurumForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargoEkleForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KargomNeredeForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.KullaniciGiris.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.PersonelBilgileriForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.SifreUnutForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.TeslimEdilmeyenKargoForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.YoneticiBilgileriForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.ZiyaretciBilgileriForm.resources
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.exe
+C:\Users\Casper\Desktop\3.Sınıf Dersler\ÖDEVLER\Final\Görsel Programlama\181312005_MuhammetDuyar\KargoTakipOtomasyonu\KargoTakipOtomasyonu\obj\Debug\KargoTakipOtomasyonu.pdb
